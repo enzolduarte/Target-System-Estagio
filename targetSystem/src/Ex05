@@ -1,0 +1,15 @@
+Ligue o Primeiro Interruptor e Deixe-o Ligado por um Tempo:
+
+Ligue o primeiro interruptor (Interruptor A) e deixe-o ligado por alguns minutos. Isso permitirá que a lâmpada correspondente a esse interruptor aqueça.
+Desligue o Primeiro Interruptor e Ligue o Segundo Interruptor:
+
+Após alguns minutos, desligue o primeiro interruptor (Interruptor A) e ligue o segundo interruptor (Interruptor B).
+Vá até as Salas das Lâmpadas e Verifique:
+
+Sala 1: A lâmpada que está acesa é controlada pelo segundo interruptor (Interruptor B), pois foi a última ligada.
+Sala 2: Toque nas lâmpadas que estão apagadas. A lâmpada quente ao toque é a que foi controlada pelo primeiro interruptor (Interruptor A), pois foi a que estava ligada por mais tempo e ainda retém calor.
+Sala 3: A lâmpada que está apagada e fria é a que não foi ligada por nenhum dos interruptores (Interruptor C).
+
+Lâmpada acesa: Controlada pelo Interruptor B (o último que você ligou antes de ir às salas).
+Lâmpada quente mas apagada: Controlada pelo Interruptor A (o primeiro que você ligou e depois desligou).
+Lâmpada fria e apagada: Controlada pelo Interruptor C.
